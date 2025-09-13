@@ -1,0 +1,19 @@
+Demo Video Script (1-2 minutes)
+-------------------------------
+Intro (10s):
+Hello, I'm [Your Name]. Today I'll demo Agentic AI for Farmers — a privacy-first, decentralized AI assistant.
+
+Problem (10s):
+Farmers face uncertainty in crop choice due to soil, weather and market fluctuations.
+
+Solution (20s):
+Our agent runs locally on the farmer's device, gives crop recommendations, and collaborates via federated learning without sharing raw data.
+
+Demo (40s):
+1. Load sample input from the sidebar.
+2. Click 'Get recommendation' — the agent evaluates and shows crop recommendation distribution.
+3. View the grid of crop images (English/Hindi/Telugu labels) to help farmers decide.
+4. Optional: Upload a short audio file; the app transcribes it (sidebar) for accessibility.
+
+Closing (10s):
+This demo shows privacy, accessibility, and decentralization working together. Thank you.

@@ -1,0 +1,12 @@
+flask
+requests
+torch
+scikit-learn
+numpy
+pandas
+pyyaml
+cryptography
+streamlit
+flwr
+SpeechRecognition
+pydub
